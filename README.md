@@ -7,13 +7,13 @@ Our meeting creation process is fast and easy, whilst using a ML suggester agent
 ![](/ScreenShots/Login.gif)      ![](/ScreenShots/MainScreen.png)
 
 ## Technologies
-- Since Moti is a social app, we want to be approachable to all users. Moti is a React-Native App.
+- Since Moti is a social app, we want to be approachable to all users.<br />
+iOS & Android support - React-Native App.
 
 - Integration with Firebase for the cloud DB, storage and authentication capabilities.
 
 - Our server is a HTTP python server, that implements ML algorithms (like K-means).<br />
-
-Our suggestions occur once a day, and consist of 2 main suggestions:
+  Our suggestions occur once a day, and consist of 2 main suggestions:
   1) Birthday suggestions:<br />
   Each user is offered a choice whether or not to sync up calendars with out app.
   When approved, every birthday saved in the calendar is then saved into our DB, and when the time comes, Moti will suggest a meeting to celebrate!
