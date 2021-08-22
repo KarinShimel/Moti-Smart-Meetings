@@ -22,7 +22,10 @@ iOS & Android support - React-Native App.
   For each user, we scan the past meetings and start a process of creating centroids, which are then converted into clusters based on a similarity score - based on an NLP library that weights in the text scemantics and context.
   Finding the cluster most relevant to the present time, and suggesting a meeting similar to the highest scored cluster.
 - Look for a place: <br />
-  Moti is also using Google API to find relevant places for meetings to take place. Every user can enter minimal search parameters and Moti will provide a list of places/activites relevant to the users input, then the user can create a meeting in the chosen spot. 
+  Moti is also using Google Places API to find relevant places for meetings to take place. Every user can enter minimal search parameters and Moti will provide a list of places/activites relevant to the users input, then the user can create a meeting in the chosen spot. 
+  
+- Calendar Integration:.<br />
+  Add the meetings you create to your personal calendar.
 
 More features available! <br />
 Download and check them out :)
