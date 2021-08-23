@@ -1,12 +1,23 @@
 # Moti - Smart Meetings App
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 Moti is designed to help everyone create social meetings faster, and being headache free.
 
 Our meeting creation process is fast and easy, whilst using a ML suggester agent to upgrade each user's exprience.
 
 
+
 ![](/ScreenShots/Login.gif)      ![](/ScreenShots/MainScreen.png)
 
 ## Technologies
+
+
+
+
+
 - Since Moti is a social app, we want to be approachable to all users.<br />
 iOS & Android support - React-Native App.
 
